@@ -26,7 +26,7 @@ Each folder contains:
 Students, interns, and aspiring developers who want to master C++ and build a strong foundation in OOP.
 
 ---
-Created with ❤️ by NGD — Next Gen Developers. Empowering the future through intelligent software.
+### Created with ❤️ by Next Gen Developers.
 ---
-## © 2025 NGD-cpp-Chatbot. All rights reserved by Next Gen Developers
+## © 2025 NGD-cpp-oop. All rights reserved by Next Gen Developers
 ---
