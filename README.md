@@ -3,6 +3,7 @@
   <img src="https://i.postimg.cc/4yd6FDVC/Whats-App-Image-2025-07-26-at-3-17-13-PM-removebg-preview.png" alt="Logo" style="height:25px;">
   <span>Next Gen Developers Student Guid Program</span>
 </h1>
+
 ---
 # 🚀 C++ & Object-Oriented Programming
 
@@ -25,8 +26,7 @@ Each folder contains:
 Students, interns, and aspiring developers who want to master C++ and build a strong foundation in OOP.
 
 ---
-
-*Created with ❤️ by NGD — Next Gen Developers. Empowering the future through intelligent software.*
+Created with ❤️ by NGD — Next Gen Developers. Empowering the future through intelligent software.
 ---
 ## © 2025 NGD-cpp-Chatbot. All rights reserved by Next Gen Developers
 ---
